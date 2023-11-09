@@ -1,4 +1,4 @@
-👋 Hello there! I'm [ Adinath ], a passionate Front-end Developer.
+👋 Hello there! I'm [ Adinath ] a passionate Front-end Developer.
 
 🚀 I specialize in crafting beautiful and user-friendly web applications with a keen eye for design and a knack for creating seamless user experiences.
 
