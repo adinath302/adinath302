@@ -4,7 +4,7 @@
 
 💻 My tech stack includes:
 - HTML, CSS, JavaScript (ES6+)
-- React.js, Vue.js, Angular
+- React.js, 
 - Responsive Web Design
 - UI/UX Design
 - Web Accessibility
